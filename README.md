@@ -1,14 +1,8 @@
-## Hi , Here is End Credits
+## Hi , Here is Crepuscluar
 
 ### About me | 关于
 
-- End Credits , 一个普通的高中生 , 正在学习 C , C++
-- 或多或少的拥有一些 Android 相关开发经验 , 正在涉足 Android 内核等领域
-- 喜好纯音乐 , 动画以及动画原声带
-
-- End Credits , An ordinary high school student , Learning C , C++
-- Have more or less experience in Android development and are trying to get involved in the Android kernel and other fields.
-- Love Pure music, Two-Dimensional and Animation Original Sound Track.
+- Crepuscluar, A Pro noob. | Crepuscluar, 一个菜逼 
 
 ### Contact me | 联系我
 
@@ -22,7 +16,6 @@
 
 - 判天地之美，析万物之理，察古人之全。寡能备于天地之美，称神明之容。 --《庄子•天下》
 
-- Able to appreciate the different beauty of the universe, understand the survival principles of the universe, and fully understand the intentions of the ancients. If these conditions are met, it is called a god. --"Zhuangzi • The World"
 
 <!--
 **EndCredits/EndCredits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
