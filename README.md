@@ -37,3 +37,5 @@ Here are some ideas to get you started:
 [![EndCredits's GitHub stats](https://github-readme-stats.vercel.app/api?username=EndCredits&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EndCredits&exclude_repo=kernel_xiaomi_msm8953,android_kernel_xiaomi_sm765g,android_kernel_xiaomi_msm8953,Moun_Kernel_Tissot,android_kernel_xiaomi_msm8953-1,LightningKernel_Xiaomi_msm8953,ubports_kernel_xiaomi_platina,Strixkernel_xiaomi_msm8953,msm-4.9,canting_kernel_xiaomi_msm8953)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=EndCredits)](https://github.com/anuraghazra/github-readme-stats)
