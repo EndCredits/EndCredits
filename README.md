@@ -35,3 +35,6 @@ Here are some ideas to get you started:
 ![EndCredits's Github Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EndCredits&theme=vue)
 
 [![EndCredits's GitHub stats](https://github-readme-stats.vercel.app/api?username=EndCredits&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+
+[![EndCredits's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=EndCredits)](https://github.com/anuraghazra/github-readme-stats)
+
