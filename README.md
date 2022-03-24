@@ -7,7 +7,7 @@
 ### Contact me | 联系我
 
 - Tencent QQ | QQ : 2954582482
-- Twitter | 推特 : [Twitter@Ern7b](https://twitter.com/Ern7b)
+- Twitter | 推特 : [Twitter@EndCredits5](https://twitter.com/EndCredits5)
 - GitHub | GitHub : [Github@EndCredits](https://github.com/EndCredits)
 - Netease Cloud Music | 网易云音乐 [NCM@SundialSilence](https://music.163.com/#/user/home?id=636398348)
 - Bilibili | 哔哩哔哩 : [Bilibili@EndCredits](https://space.bilibili.com/244746008)
