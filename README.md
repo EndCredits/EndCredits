@@ -11,10 +11,11 @@
 - GitHub | GitHub : [Github@EndCredits](https://github.com/EndCredits)
 - Netease Cloud Music | 网易云音乐 [NCM@SundialSilence](https://music.163.com/#/user/home?id=636398348)
 - Bilibili | 哔哩哔哩 : [Bilibili@EndCredits](https://space.bilibili.com/244746008)
+- Telegram | Tg : [@EndCredits](https://t.me/EndCredits) && [@credits_offtopic](https://t.me/credits_offtopic)
 
 ### Motto | 人生信条
 
-- 判天地之美，析万物之理，察古人之全。寡能备于天地之美，称神明之容。 --《庄子•天下》
+> 判天地之美，析万物之理，察古人之全。寡能备于天地之美，称神明之容。 --《庄子•天下》
 
 
 <!--
