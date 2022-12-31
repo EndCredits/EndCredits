@@ -2,7 +2,7 @@
 
 ### About me | 关于
 
-- Hana, A Pro noob. | Crepuscluar, 一个菜逼 
+- Hana, A Pro noob. | Hana, 一个菜逼 
 
 ### Contact me | 联系我
 
