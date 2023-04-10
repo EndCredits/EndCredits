@@ -33,5 +33,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![EndCredits's Github Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EndCredits&theme=vue)
-![EndCredits's GitHub stats](https://github-readme-stats.vercel.app/api?username=EndCredits&theme=vue)
+![EndCredits's Github Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EndCredits&theme=transparent)
