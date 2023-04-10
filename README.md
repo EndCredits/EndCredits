@@ -34,3 +34,5 @@ Here are some ideas to get you started:
 -->
 
 ![EndCredits's Github Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EndCredits&theme=transparent)
+
+![EndCredits's commit time status](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EndCredits&theme=transparent&utcOffset=+8)
