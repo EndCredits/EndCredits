@@ -9,8 +9,8 @@
 - Tencent QQ | QQ : 2954582482
 - Twitter | 推特 : [Twitter@EndCredits5](https://twitter.com/EndCredits5)
 - GitHub | GitHub : [Github@EndCredits](https://github.com/EndCredits)
-- Netease Cloud Music | 网易云音乐 [NCM@Crepuscular Hana](https://music.163.com/#/user/home?id=636398348)
-- Bilibili | 哔哩哔哩 : [Bilibili@AnCrepuscular](https://space.bilibili.com/244746008)
+- Netease Cloud Music | 网易云音乐 [NCM@肉辛火苦烧](https://music.163.com/#/user/home?id=636398348)
+- Bilibili | 哔哩哔哩 : [Bilibili@七彩发光大洋葱](https://space.bilibili.com/244746008)
 - Telegram | Tg : [@EndCredits](https://t.me/EndCredits)
 - Coolapk: 三片叶的花结
 
@@ -18,9 +18,6 @@
 
 > 判天地之美，析万物之理，察古人之全。寡能备于天地之美，称神明之容。 --《庄子•天下》
 
-### Sponsor | 给我打钱
-
- - [爱发电](https://afdian.com/a/credits_dev)
 <!--
 **EndCredits/EndCredits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
